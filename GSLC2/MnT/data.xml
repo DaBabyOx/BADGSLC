@@ -1,0 +1,344 @@
+<people>
+    <person>
+        <name>ADINDA PUTRI MAHARANI RUSTAN</name>
+        <id>2702301880</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ALICIA NASYWAA HISYAM</name>
+        <id>2702240696</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ALIVE PRIANDY</name>
+        <id>2702346582</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>AMMARA ANANTI</name>
+        <id>2702376345</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>AMMARA RAISA RIZKI</name>
+        <id>2702366123</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ANDHIKA ADI WIJAYA</name>
+        <id>2702343542</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ANDREANO ALEXANDER LIEM</name>
+        <id>2702372284</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ARRON ANTONIO</name>
+        <id>2702216904</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ARYA SWASTIKA</name>
+        <id>2702374264</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ASTON ALEXANDER CHANDRA</name>
+        <id>2702222301</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>AURELIUS DARRENLIE PUTRA</name>
+        <id>2702219925</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>BENEDICTO AMADIUS HERLAMBANG</name>
+        <id>2702304926</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>DAFFA FARRAS PUTRA TARIGAN</name>
+        <id>2702376811</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>DAVINA MANTIKA FARMAYANA</name>
+        <id>2702339753</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>DERREN RICHARD NATHANAEL</name>
+        <id>2702251232</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>DEVINA CHRISTIAN</name>
+        <id>2702255086</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>DYLLAN TANDRIAWAN HOEDAYA</name>
+        <id>2702339734</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>EDWARD FERNANDO</name>
+        <id>2702227321</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ELROY JOVITO RAHARJO</name>
+        <id>2702355971</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>ELSA AMALIA BERTA</name>
+        <id>2702272741</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>FARREL RIO GIOVANNI GURNING</name>
+        <id>2702220252</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>FAUZAN ATTALLAH ZUFAR</name>
+        <id>2702304794</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>FERDY RIANTO WIJAYA</name>
+        <id>2702328030</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>GABRIEL FERNANDI</name>
+        <id>2702289295</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>GAVIN ADE WISTARA</name>
+        <id>2702374831</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>GERALDUS JUAN CHRISTIAN</name>
+        <id>2702327955</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>HOSEA CALVIN SINAGA</name>
+        <id>2702233564</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>JADEN XANDER SIMATUPANG</name>
+        <id>2702301174</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>JORDAN TANDI</name>
+        <id>2702366211</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>JOSHUA SUGIANTO</name>
+        <id>2702316711</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>JOVAN REYHAN NABIL JAYA</name>
+        <id>2702278285</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>KARINA WULAN SARI</name>
+        <id>2702352654</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>KENNEDY SURIANTO</name>
+        <id>2702252525</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>KEVIN JONATHAN</name>
+        <id>2702275825</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>LEVIN RATHAN</name>
+        <id>2702226855</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>MARCO MARTIN</name>
+        <id>2702210724</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>NATHAN HAZEL HUDOYO</name>
+        <id>2702227100</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>OWEN PANGALILA</name>
+        <id>2702251844</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>RACHEL CHEN</name>
+        <id>2702238823</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>RAFAEL JODHI KAPITAN</name>
+        <id>2702244233</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>RAFLY MAULANA RIZKY</name>
+        <id>2702310771</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>RAYMOND PHILIP JAP</name>
+        <id>2702323566</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>REAGEN DIAN SETIAWAN</name>
+        <id>2702338441</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>REVANDY WILLIAM LAM</name>
+        <id>2702220132</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>RIVAN RHEZNANDA AL GHIFARI</name>
+        <id>2702340295</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>SANTIAGO</name>
+        <id>2702234434</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>SEAN JONATHAN</name>
+        <id>2702254505</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>SEAN MIKAEL ALEXANDER</name>
+        <id>2702372271</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>SESSI RAHEL AGUSTINE SUMENDAP</name>
+        <id>2702257942</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>SEYSA DWIARIZISYAH PUTRI</name>
+        <id>2702370871</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>STEVEN</name>
+        <id>2702316730</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>TERENCE LEE</name>
+        <id>2702256624</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>TRI SETYAJI NUGRAHA</name>
+        <id>2702368980</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>VENESSIA FRANSISCA</name>
+        <id>2702351430</id>
+        <gender>female</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>VINCENT ONG</name>
+        <id>2702313842</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>VINCENTIUS DARREN SETYAWAN</name>
+        <id>2702224692</id>
+        <gender>male</gender>
+        <role>student</role>
+    </person>
+    <person>
+        <name>VINI INDRIASARI, S.T., M.Sc., Ph.D.</name>
+        <id>D6114</id>
+        <gender>female</gender>
+        <role>lecturer</role>
+    </person>
+</people>
